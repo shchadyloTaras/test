@@ -1,1 +1,1 @@
-local version of greeting
+merged version of greeting
