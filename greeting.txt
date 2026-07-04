@@ -1,1 +1,1 @@
-hello from feature
+control version of greeting
