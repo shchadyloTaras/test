@@ -1,1 +1,1 @@
-hello from feature
+local version of greeting
