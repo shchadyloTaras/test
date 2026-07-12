@@ -1,5 +1,4 @@
-merged version of greeting
-Hello LOCAL EDIT
+Hello MERGED EDIT
 Hello from GitWarden QA run 1783495565
 local diverging change
 a friendly edit for the diff viewer
