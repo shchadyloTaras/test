@@ -1,1 +1,1 @@
-conflict version B
+conflict resolved: A+B
